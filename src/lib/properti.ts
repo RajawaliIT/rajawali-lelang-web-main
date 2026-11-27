@@ -1038,8 +1038,8 @@ export const lelangProperties: PropertiDilelang[] = [
 - 13 menit dari Hotel Santika Premiere`,
   status: "Lelang Aktif",
   image: [
-    getDriveImageUrl("https://drive.google.com/open?id=1M0IIZXXrX6KaX2QgESdJwX81sWFMSoFT"),
     getDriveImageUrl("https://drive.google.com/open?id=1CDM9Qwh5lkpq4dM2-4nvoiMK6HzsxyMY"),
+    getDriveImageUrl("https://drive.google.com/open?id=1M0IIZXXrX6KaX2QgESdJwX81sWFMSoFT"),
     getDriveImageUrl("https://drive.google.com/open?id=1VLJvBtGmATIbIvd7iteyUSWKnZzYzzrW"),
     getDriveImageUrl("https://drive.google.com/open?id=1LAjsTvyZUVA4HD1cLQVdML3xwEptHbr7"),
     getDriveImageUrl("https://drive.google.com/open?id=1ZMFTzmDWBTPnfEAbFBTKhtnnWrFx5whS"),
@@ -1053,40 +1053,6 @@ export const lelangProperties: PropertiDilelang[] = [
   tanggalLelang: "2026-12-08",
   batasWaktuLelang: "-",
   jamLelang: "10:15 WIB",
-},
-{
-  id: "RLI_ELP_0336", // <-- PT. DWIJALLA KARSA (SHM)
-  title: "AGUNAN LELANG RUKO KANTOR STRATEGIS",
-  isHidden: true,
-  type: "Ruko",
-  location: "Komplek Rukan Avenue Jakarta Garden City No. 8-088, Kel. Cakung Timur, Kec. Cakung, Kota Jakarta Timur",
-  provinsi: "DKI Jakarta",
-  kota: "Jakarta Timur",
-  landArea: 136,
-  buildingArea: 384.5,
-  certificateType: "SHM",
-  description:
-  `- 6 menit dari RS Mayapada Jakarta Timur
-- 6 menit dari AEON Mall JGC
-- 7 menit dari SIS Kelapa Gading
-- 10 menit dari jakarta Garden City
-- 13 menit dari Hotel Santika Premiere`,
-  status: "Lelang Aktif",
-  image: [
-     getDriveImageUrl("https://drive.google.com/open?id=1R39_q6mt0oPiK11-WNFvQszZOl1Llsxp"),
-    getDriveImageUrl("https://drive.google.com/open?id=1X8k5rVHmqtWFzo_atybtxdbki_loeVm8"),
-    getDriveImageUrl("https://drive.google.com/open?id=1NSJtHAZXxioWiAbk3ToFHWSHpkS4suY2"),
-    getDriveImageUrl("https://drive.google.com/open?id=1vJIUvC9MEFhaqOnW34OBNmkgicsB1gSH"),
-    getDriveImageUrl("https://drive.google.com/open?id=1RocTlGnY2MMTgezuDUsombferlItXED7"),
-    getDriveImageUrl("https://drive.google.com/open?id=1Buvpl99uxRXfixeBifQpiF4akndNSDqL"),
-    getDriveImageUrl("https://drive.google.com/open?id=1siw970RdteQ1HevmYwQaNmUOV6o3_69G"),
-    getDriveImageUrl("https://drive.google.com/open?id=1Xu24IrD_x12h-9d2fdkgQCjPtGKnFq32"),
-    getDriveImageUrl("https://drive.google.com/open?id=1p20imX1gpnvbfXs8XYlL9k88H7ik_mwD"),
-    getDriveImageUrl("https://drive.google.com/open?id=1TgvW-rti_UyaumI2qu1T-PM8-HVsNygg"),
-  ],
-  endPrice: 6232745000,
-  tanggalLelang: "-",
-  batasWaktuLelang: "-",
 },
 {
   id: "RLI_ELP_0335", // <-- YORIKO
